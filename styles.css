@@ -14,3 +14,14 @@ color: rgb(21, 190, 150);
 h2 {
     color:antiquewhite
 }
+
+body {
+    background-color: maroon;
+    padding: 30px
+    
+}
+
+ul {
+    border: 1px solid grey
+    padding: 20px
+}
