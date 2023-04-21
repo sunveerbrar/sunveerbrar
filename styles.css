@@ -22,6 +22,11 @@ body {
 }
 
 ul {
-    border: 1px solid grey
+    border: 20px solid grey
     padding: 20px
+}
+
+p {
+    color: blanchedalmond;
+
 }
