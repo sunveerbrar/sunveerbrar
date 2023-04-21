@@ -22,7 +22,7 @@ body {
 }
 
 ul {
-    border: 20px solid grey
+    border: 20px solid whitesmoke
     padding: 20px
 }
 
@@ -31,4 +31,6 @@ p {
 
 }
 
-.blanchealmond { color:blanchedalmond}
+.blanchealmond { 
+    color:blanchedalmond
+}
