@@ -1,7 +1,7 @@
 #title {
 
 color: rgb(21, 190, 150);
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-family: 'Aboreto';
 }
 
 .gold {
@@ -14,10 +14,12 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 h2 {
     color:antiquewhite
+    font-family: 'Aboreto'
 }
 
 h3 {
     color:antiquewhite
+    font-family: 'Aboreto'
 }
 
 body {
@@ -33,9 +35,11 @@ ul {
 
 p {
     color: blanchedalmond;
+   ;
 
 }
 
 .blanchealmond { 
     color:blanchedalmond
 }
+
