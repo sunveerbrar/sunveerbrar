@@ -16,6 +16,10 @@ h2 {
     color:antiquewhite
 }
 
+h3 {
+    color:antiquewhite
+}
+
 body {
     background-color: maroon;
     padding: 30px
@@ -28,7 +32,7 @@ ul {
 }
 
 p {
-    color: yellow;
+    color: blanchedalmond;
 
 }
 
