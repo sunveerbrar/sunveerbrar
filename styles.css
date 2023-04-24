@@ -29,13 +29,13 @@ body {
 }
 
 ul {
-    border: 20px rgb(218, 227, 225) 
+    border: 20px rgba(255, 235, 205, 0.258)
     padding:20px
     font-family: 'Times New Roman', Times, serif
 }
 
 p {
-    color: blanchedalmond;
+    color: rgba(255, 235, 205, 0.258);
     font-family: 'Times New Roman', Times, serif
    ;
 
@@ -43,5 +43,6 @@ p {
 
 .blanchealmond { 
     color:blanchedalmond
+    font-family: 'Times New Roman', Times, serif
 }
 
