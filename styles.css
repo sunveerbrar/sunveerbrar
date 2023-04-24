@@ -29,8 +29,7 @@ body {
 }
 
 ul {
-    border: 20px rgba(255, 235, 205, 0.258);
-    padding:20px;
+    color: rgba(8, 8, 8, 0.938);
     font-family: 'Times New Roman', Times, serif;
 }
 
